@@ -1,6 +1,6 @@
 ## Sameer Ghawana
 
-![5 Horses](https://drive.google.com/uc?export=view&id=13W9ZDeTeCr7d1COMXlAK-iq7ccclD_XR)
+![5 Horses](utils/5horses.png)
 <br/>
 <p align="center">
   
@@ -23,7 +23,6 @@
   
 * 🎓 Research on **Machine Unlearning in Generative Models** @ [the IACV Lab](https://sites.google.com/iisc.ac.in/somabiswas/iacv-lab-iisc).
 
-* 💻 Building Masked Image Modeling models for Remote Sensing data. 
 
 ### 🖥️ Projects
 <table>
@@ -39,7 +38,7 @@
           <th style="width: 30%; text-align: left;">Tags</th>
         </tr>
         <tr>
-          <td><a href="#">Dummy NLP Project</a></td>
+          <td><a href="#">Dummy LP Project</a></td>
           <td>Python, NLTK</td>
         </tr>
       </table>
@@ -59,19 +58,25 @@
   </tr>
 </table>
 
-<div style="width: 50%;">
 
-  <table width="100%">
-    <tr>
-      <th width="70%">Title</th>
-      <th width="30%">Tags</th>
-    </tr>
-    <tr>
-      <td width="70%"><a href="https://github.com/sghawana/neural-network-in-numpy">Neural Network in Numpy</a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-      <td width="30%">Python<br>Numpy&nbsp;&nbsp;</td>
-    </tr>
-  </table>
-  
+<table>
+  <tr>
+    <th style="text-align: center;">Miscellaneous</th>
+  </tr>
+  <tr>
+    <td>
+      <table width="100%">
+        <tr>
+          <th style="width: 70%; text-align: left;">Title</th>
+          <th style="width: 30%; text-align: left;">Tags</th>
+        </tr>
+        <tr>
+          <td><a href="#">Dummy NLP Project</a></td>
+          <td>Python, NLTK</td>
+        </tr>
+      </table>
+    </td>
+</table>
 
 ### 🖥️ Research Paper Implementations 
 
@@ -81,6 +86,12 @@
       <th width="10%">Repo</th>
       <th width="50%">Description</th>
       <th width="10%">Tags</th>
+   </tr>
+   <tr>
+      <td width="30%" align="center"><a href="https://arxiv.org/pdf/1706.03762">Attention is all you need (2017)</a></td>
+      <td width="10%" align="center"><a href="https://github.com/sghawana/transformer-from-scratch">Link</a></td>
+      <td width="50%" align="center">First Paper that proposed Transformer architecture to perform sequence to sequence mapping</td>
+      <td width="10%" align="center">NLP<br>Transformers<br>seq-2-seq</td>
    </tr>
    <tr>
       <td width="30%" align="center"><a href="https://arxiv.org/pdf/1706.03762">Attention is all you need (2017)</a></td>
