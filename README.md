@@ -56,6 +56,11 @@
       <td width="45%" align="center">Implementation of Depthwise Convolution to speed up CNNs</td>
       <td width="15%" align="center">CNN, Convolution</td>
    </tr>
+   <tr>
+      <td width="30%" align="center"><a href="https://github.com/sghawana/JPEG-implementation">Custom JPEG Implementation</a></td>
+      <td width="45%" align="center">I implemented the JPEG image compression algorithm from scratch and compared the compression results with standard library function of OpenCV</td>
+      <td width="15%" align="center">JPEG, Image Compression</td>
+   </tr>
 </table>
 
 ---
@@ -68,9 +73,14 @@
       <th width="20%">Tags</th>
    </tr>
    <tr>
-      <td width="30%" align="center"><a href="https://github.com/sghawana/Devanagri-character-generator">Devanagari Character Generator</a></td>
-      <td width="45%" align="center"> Generate alphabets and numbers from devnagri script using GAN and its different variations</td>
-      <td width="15%" align="center">GAN, DCGAN, Generative Models</td>
+      <td width="30%" align="center"><a href="https://github.com/sghawana/transliteration-of-Names">Transliteration of Names</a></td>
+      <td width="45%" align="center"> I performed the task of sequence-to-sequence mapping using 3 generation of Encoder-Decoder architectures namely RNN, LSTM and Transformers</td>
+      <td width="15%" align="center">Seq2seq<br>LSTM<br>RNN</td>
+   </tr>
+   <tr>
+      <td width="30%" align="center"><a href="https://github.com/sghawana/custom-gpt2-tokenizer">Custom GPT-2 Tokenizer</a></td>
+      <td width="45%" align="center"> I built a gpt-2 style tokenizer that can be trained on any .txt data to generate tokens</td>
+      <td width="15%" align="center">Tokenization<br>BPE</td>
    </tr>
 </table>
 
@@ -154,25 +164,31 @@
       <th width="10%">Tags</th>
    </tr>
    <tr>
-      <td width="30%" align="center"><a href="https://link.springer.com/article/10.1023/B:VISI.0000029664.99615.94">Distinctive Image Features from Scale-Invariant Keypoints (2004)</a></td>
+      <td width="30%" align="center"><a href="https://link.springer.com/article/10.1023/B:VISI.0000029664.99615.94">Distinctive Image Features from Scale-Invariant Keypoints</a></td>
       <td width="10%" align="center"><a href="https://github.com/sghawana/Image-Feature-Extraction">Link</a></td>
       <td width="45%" align="center"> The original SIFT paper. Describes method for extraction of image features(deterministically), which are invariant to changes in scale, rotation, and illumination</td>
       <td width="15%" align="center">Img Processing<br>Feature Extraction</td>
    </tr>
    <tr>
-      <td width="30%" align="center"><a href="https://people.eecs.berkeley.edu/~malik/papers/SM-ncut.pdf">Normalized Cuts and Image Segmentation (2000)</a></td>
+      <td width="30%" align="center"><a href="https://ieeexplore.ieee.org/document/559512">Noise removal via Bayesian wavelet coring</a> & <br><a href="https://ieeexplore.ieee.org/document/559512">Adapting to unknown smoothness via wavelet shrinkage</a></td>
+      <td width="10%" align="center"><a href="https://github.com/sghawana/Image-Denoising-by-classical-methods">Link</a></td>
+      <td width="45%" align="center"> Some Classical Techniques to perform Image denoising using Laplacian and Shrinkage extimates</td>
+      <td width="15%" align="center">Img Processing<br>Denoising</td>
+   </tr>
+   <tr>
+      <td width="30%" align="center"><a href="https://people.eecs.berkeley.edu/~malik/papers/SM-ncut.pdf">Normalized Cuts and Image Segmentation</a></td>
       <td width="10%" align="center"><a href="https://github.com/sghawana/Image-Segmentation-by-classical-methods">Link</a></td>
       <td width="45%" align="center"> Proposes an approach to image segmentation by framing it as a graph partitioning problem and introduces an algorithm to achieve that</td>
       <td width="15%" align="center">Img Processing<br>Segmentation</td>
    </tr>
     <tr>
-      <td width="30%" align="center"><a href="https://arxiv.org/pdf/1411.4038">Fully Convolutional Networks for Semantic Segmentation (2014)</a></td>
+      <td width="30%" align="center"><a href="https://arxiv.org/pdf/1411.4038">Fully Convolutional Networks for Semantic Segmentation</a></td>
       <td width="10%" align="center"><a href="https://github.com/sghawana/Image-segmentation-by-pretrained-ResNet50">Link</a></td>
       <td width="45%" align="center"> Proposes FCN architecture for the purpose of Image segmentation</td>
       <td width="15%" align="center">CV<br>CNN<br>Segmentation</td>
    </tr>
     <tr>
-       <td width="30%" align="center"><a href="https://ieeexplore.ieee.org/document/726791">Gradient-based learning applied to document recognition (2014)</a></td>
+       <td width="30%" align="center"><a href="https://ieeexplore.ieee.org/document/726791">Gradient-based learning applied to document recognition</a></td>
        <td width="10%" align="center"><a href="https://github.com/sghawana/lenet-5-with-depthwise-convolution">Link</a></td>
        <td width="45%" align="center"> Proposes Le-Net architecture for the purpose of Document character recogonition</td>
        <td width="15%" align="center">CV<br>CNN<br>Object detection</td>
