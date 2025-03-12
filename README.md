@@ -6,7 +6,7 @@
  ## Hi, I'm Sameer Ghawana
 
 <p align="center">
-<a href="https://x.com/ghawana_sameer">
+<a href="hhttps://x.com/masahg_reeana">
     <img src="https://img.shields.io/twitter/follow/X?style=plastic&logoColor=black&logoSize=auto&color=white">
 </a>
 <a href="https://www.linkedin.com/in/sameer-ghawana/">
@@ -144,7 +144,7 @@
       <td width="15%" align="center">Img Processing<br>Segmentation</td>
    </tr>
     <tr>
-      <td width="30%" align="center"><a href="https://people.eecs.berkeley.edu/~malik/papers/SM-ncut.pdf">Fully Convolutional Networks for Semantic Segmentation (2014)</a></td>
+      <td width="30%" align="center"><a href="https://arxiv.org/pdf/1411.4038">Fully Convolutional Networks for Semantic Segmentation (2014)</a></td>
       <td width="10%" align="center"><a href="https://github.com/sghawana/Image-segmentation-by-pretrained-ResNet50">Link</a></td>
       <td width="45%" align="center"> Proposes FCN architecture for the purpose of Image segmentation</td>
       <td width="15%" align="center">CV<br>CNN<br>Segmentation</td>
@@ -152,7 +152,7 @@
     <tr>
        <td width="30%" align="center"><a href="https://ieeexplore.ieee.org/document/726791">Gradient-based learning applied to document recognition (2014)</a></td>
        <td width="10%" align="center"><a href="">Link</a></td>
-       <td width="45%" align="center"> Proposes Le-Net architecture for the purposr of Document character recogonition</td>
+       <td width="45%" align="center"> Proposes Le-Net architecture for the purpose of Document character recogonition</td>
        <td width="15%" align="center">CV<br>CNN<br>Object detection</td>
     </tr>
 </table>
