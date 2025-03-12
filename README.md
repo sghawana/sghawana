@@ -66,6 +66,21 @@
 </table>
 
 
+### 1. Computer Vision and Image Processing
+<table width="100%">
+   <tr>
+      <th width="40%">Title</th>
+      <th width="40%">Description</th>
+      <th width="20%">Tags</th>
+   </tr>
+   <tr>
+      <td width="30%" align="center"><a href="https://github.com/sghawana/Devanagri-character-generator">Devanagari Character Generator</a></td>
+      <td width="45%" align="center"> Generate alphabets and numbers from devnagri script using GAN and its different variations</td>
+      <td width="15%" align="center">GAN, DCGAN, Generative Models</td>
+   </tr>
+</table>
+
+
 <table style="width: 100%">
   <tr>
     <th style="text-align: center;">Natural Language Processing and LLMs</th>
