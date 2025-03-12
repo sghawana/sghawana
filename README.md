@@ -116,7 +116,7 @@
 
 ## Paper Implementations: 
 
-## 1. 🔠 Natural Language Preocessing and LLMs
+## 1. 🔠 Natural Language Processing and LLMs
 
 <table width="100%">
    <tr>
