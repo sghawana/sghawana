@@ -26,45 +26,9 @@
 * 🎓 Research on **Machine Unlearning in Generative Models** @ [the IACV Lab](https://sites.google.com/iisc.ac.in/somabiswas/iacv-lab-iisc).
 
 ---
+---
 
 ## 🖥️ Projects
-<table style="width: 100%">
-  <tr>
-    <th style="text-align: center;">Computer Vision and Image Processing</th>
-  </tr>
-  <tr>
-    <td>
-      <table style="width: 100%;">
-        <tr>
-          <th style="width: 40%; text-align: left;">Title</th>
-          <th style="width: 40%; text-align: left;">Description</th>
-          <th style="width: 20%; text-align: left;">Tags</th>
-        </tr>
-        <tr>
-          <td><a href="https://github.com/sghawana/Devanagri-character-generator">Devanagari Character Generator</a></td>
-          <td>Generate alphabets and numbers from devnagri script using GAN and its different variations</td>
-          <td>GAN, DCGAN, Generative Models</td>
-        </tr>
-        <tr>
-          <td><a href="https://github.com/sghawana/Image-segmentation-by-pretrained-ResNet50">Segmentation of Cricket Images</a></td>
-          <td>Image segmentation of cricket images, players, equipment, and field elements using a pretrained model.</td>
-          <td>ResNet50, Semantic Segmentation</td>
-        </tr>
-        <tr>
-          <td><a href="https://github.com/sghawana/Object-detection-by-YOLO">Object Detection using YOLOv7</a></td>
-          <td>I performed the task of object detection on a custom dataset using YOLO v7 and compared the model performance with change in hyper-parameters</td>
-          <td>YOLO, Object Detection</td>
-        </tr>
-        <tr>
-          <td><a href="https://github.com/sghawana/lenet-5-with-depthwise-convolution">Fast Convolution Methods</a></td>
-          <td>Implementation of Depthwise Convolution to speed up CNNs</td>
-          <td>CNN, Convolution</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-
 
 ### 1. Computer Vision and Image Processing
 <table width="100%">
@@ -78,65 +42,66 @@
       <td width="45%" align="center"> Generate alphabets and numbers from devnagri script using GAN and its different variations</td>
       <td width="15%" align="center">GAN, DCGAN, Generative Models</td>
    </tr>
+   <tr>
+      <td width="30%" align="center"><a href="https://github.com/sghawana/Image-segmentation-by-pretrained-ResNet50">Segmentation of Cricket Images</a></td>
+      <td width="45%" align="center"> Image segmentation of cricket images, players, equipment, and field elements using a pretrained model.</td>
+      <td width="15%" align="center">ResNet50, Semantic Segmentation</td>
+    <tr>
+      <td width="30%" align="center"><a href="https://github.com/sghawana/Object-detection-by-YOLO">Object Detection using YOLOv7</a></td>
+      <td width="45%" align="center">I performed the task of object detection on a custom dataset using YOLO v7 and compared the model performance with change in hyper-parameters.</td>
+      <td width="15%" align="center">YOLO, Object Detection</td>
+   </tr>
+   <tr>
+      <td width="30%" align="center"><a href="https://github.com/sghawana/lenet-5-with-depthwise-convolution">Fast Convolution Methods</a></td>
+      <td width="45%" align="center">Implementation of Depthwise Convolution to speed up CNNs</td>
+      <td width="15%" align="center">CNN, Convolution</td>
+   </tr>
 </table>
 
+---
 
-<table style="width: 100%">
-  <tr>
-    <th style="text-align: center;">Natural Language Processing and LLMs</th>
-  </tr>
-  <tr>
-    <td>
-      <table style="width: 100%">
-        <tr>
-          <th style="width: 40%; text-align: left;">Title</th>
-          <th style="width: 40%; text-align: left;">Description</th>
-          <th style="width: 20%; text-align: left;">Tags</th>
-        </tr>
-        <tr>
-          <td><a href="https://github.com/sghawana/lenet-5-with-depthwise-convolution">Fast Convolution Methods</a></td>
-          <td>Implementation of Depthwise Convolution to speed up CNNs</td>
-          <td>CNN, Convolution</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
+### 2. Natural Language Processing and LLMs
+<table width="100%">
+   <tr>
+      <th width="40%">Title</th>
+      <th width="40%">Description</th>
+      <th width="20%">Tags</th>
+   </tr>
+   <tr>
+      <td width="30%" align="center"><a href="https://github.com/sghawana/Devanagri-character-generator">Devanagari Character Generator</a></td>
+      <td width="45%" align="center"> Generate alphabets and numbers from devnagri script using GAN and its different variations</td>
+      <td width="15%" align="center">GAN, DCGAN, Generative Models</td>
+   </tr>
 </table>
 
+---
 
+### 3. Miscellaneous
 
-<table style="width: 100%">
-  <tr>
-    <th style="text-align: center;">Miscellaneous</th>
-  </tr>
-  <tr>
-    <td>
-      <table style="width: 100%">
-        <tr>
-          <th style="width: 40%; text-align: left;">Title</th>
-          <th style="width: 40%; text-align: left;">Description</th>
-          <th style="width: 20%; text-align: left;">Tags</th>
-        </tr>
-        <tr>
-          <td><a href="https://github.com/sghawana/classical-ml-algos">Classical ML Algorithms</a></td>
-          <td>Implementation of standard ml algorithms for regression, classification and clustering</td>
-          <td>Regression, Clustering, Classification</td>
-        </tr>
-        <tr>
-          <td><a href="https://github.com/sghawana/community-detection">community-detection</a></td>
-          <td>Implemented couple of classical graph algorithms for purpose of community detections</td>
-          <td>Graphs, Louvain, Girvan Newman</td>
-        </tr>
-        <tr>
-          <td><a href="https://github.com/sghawana/neural-network-in-numpy">NN using Numpy</a></td>
-          <td>I made a Multi Layer Perceptron(fwd & bkwd pass) entirely in numpy using standard loss and activations</td>
-          <td>MLP, Backpropogation</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
+<table width="100%">
+   <tr>
+      <th width="40%">Title</th>
+      <th width="40%">Description</th>
+      <th width="20%">Tags</th>
+   </tr>
+   <tr>
+      <td width="30%" align="center"><a href="https://github.com/sghawana/classical-ml-algos">Classical ML Algorithms</a></td>
+      <td width="45%" align="center">Implementation of standard ml algorithms for regression, classification and clustering</td>
+      <td width="15%" align="center">Regression, Clustering, Classification</td>
+   </tr>
+   <tr>
+      <td width="30%" align="center"><a href="https://github.com/sghawana/neural-network-in-numpy">NN using Numpy</a></td>
+      <td width="45%" align="center">I made a Multi Layer Perceptron(fwd & bkwd pass) entirely in numpy using standard loss and activations</td>
+      <td width="15%" align="center">MLP, Backpropogation</td>
+   </tr>
+   <tr>
+      <td width="30%" align="center"><a href="https://github.com/sghawana/community-detection">community-detection</a></td>
+      <td width="45%" align="center">Implemented couple of classical graph algorithms for purpose of community detections</td>
+      <td width="15%" align="center">Graphs, Louvain, Girvan Newman</td>
+   </tr>
 </table>
 
+---
 ---
 
 ## Paper Implementations: 
@@ -176,6 +141,7 @@
    </tr>
 </table>
 
+---
 
 ## 2. 🌄 Image Processing, Computer Vision & Generative Models
 
