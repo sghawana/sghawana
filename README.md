@@ -28,33 +28,37 @@
 ---
 
 ## 🖥️ Projects
-<table width="100%">
+<table style="width: 100%; border-collapse: collapse;">
   <tr>
-    <th style="text-align: center; width: 50%;">Natural Language Processing</th>
-    <th style="text-align: center; width: 50%;">Computer Vision and Image Processing</th>
+    <th style="text-align: center;">Computer Vision and Image Processing</th>
   </tr>
   <tr>
     <td>
-      <table width="100%">
+      <table style="width: 100%; border-collapse: collapse;">
         <tr>
-          <th style="width: 70%; text-align: left;">Title</th>
-          <th style="width: 30%; text-align: left;">Tags</th>
+          <th style="width: 40%; text-align: left;">Title</th>
+          <th style="width: 40%; text-align: left;">Description</th>
+          <th style="width: 20%; text-align: left;">Tags</th>
         </tr>
         <tr>
-          <td><a href="#">Dummy NLP Project</a></td>
-          <td>Python, NLTK</td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table width="100%">
-        <tr>
-          <th style="width: 70%; text-align: left;">Title</th>
-          <th style="width: 30%; text-align: left;">Tags</th>
+          <td><a href="https://github.com/sghawana/Devanagri-character-generator">Devanagari Character Generator</a></td>
+          <td>Generate alphabets and numbers from devnagri script using GAN and its different variations</td>
+          <td>GAN, DCGAN, Generative Models</td>
         </tr>
         <tr>
-          <td><a href="#">Dummy CV Project</a></td>
-          <td>Python, OpenCV</td>
+          <td><a href="https://github.com/sghawana/Image-segmentation-by-pretrained-ResNet50">Segmentation of Cricket Images</a></td>
+          <td>Image segmentation of cricket images, players, equipment, and field elements using a pretrained model.</td>
+          <td>ResNet50, Semantic Segmentation</td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/sghawana/Object-detection-by-YOLO">Object Detection using YOLOv7</a></td>
+          <td>I performed the task of object detection on a custom dataset using YOLO v7 and compared the model performance with change in hyper-parameters</td>
+          <td>YOLO, Object Detection</td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/sghawana/lenet-5-with-depthwise-convolution">Fast Convolution Methods</a></td>
+          <td>Implementation of Depthwise Convolution to speed up CNNs</td>
+          <td>CNN, Convolution</td>
         </tr>
       </table>
     </td>
@@ -62,23 +66,60 @@
 </table>
 
 
-<table>
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <th style="text-align: center;">Natural Language Processing and LLMs</th>
+  </tr>
+  <tr>
+    <td>
+      <table style="width: 100%; border-collapse: collapse;">
+        <tr>
+          <th style="width: 40%; text-align: left;">Title</th>
+          <th style="width: 40%; text-align: left;">Description</th>
+          <th style="width: 20%; text-align: left;">Tags</th>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/sghawana/lenet-5-with-depthwise-convolution">Fast Convolution Methods</a></td>
+          <td>Implementation of Depthwise Convolution to speed up CNNs</td>
+          <td>CNN, Convolution</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+
+
+<table style="width: 100%; border-collapse: collapse;">
   <tr>
     <th style="text-align: center;">Miscellaneous</th>
   </tr>
   <tr>
     <td>
-      <table width="100%">
+      <table style="width: 100%; border-collapse: collapse;">
         <tr>
-          <th style="width: 70%; text-align: left;">Title</th>
-          <th style="width: 30%; text-align: left;">Tags</th>
+          <th style="width: 40%; text-align: left;">Title</th>
+          <th style="width: 40%; text-align: left;">Description</th>
+          <th style="width: 20%; text-align: left;">Tags</th>
         </tr>
         <tr>
-          <td><a href="#">Dummy NLP Project</a></td>
-          <td>Python, NLTK</td>
+          <td><a href="https://github.com/sghawana/classical-ml-algos">Classical ML Algorithms</a></td>
+          <td>Implementation of standard ml algorithms for regression, classification and clustering</td>
+          <td>Regression, Clustering, Classification</td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/sghawana/community-detection">community-detection</a></td>
+          <td>Implemented couple of classical graph algorithms for purpose of community detections</td>
+          <td>Graphs, Louvain, Girvan Newman</td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/sghawana/neural-network-in-numpy">NN using Numpy</a></td>
+          <td>I made a Multi Layer Perceptron(fwd & bkwd pass) entirely in numpy using standard loss and activations</td>
+          <td>MLP, Backpropogation</td>
         </tr>
       </table>
     </td>
+  </tr>
 </table>
 
 ---
