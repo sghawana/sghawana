@@ -28,13 +28,13 @@
 ---
 
 ## 🖥️ Projects
-<table style="width: 100%; border-collapse: collapse;">
+<table style="width: 100%">
   <tr>
     <th style="text-align: center;">Computer Vision and Image Processing</th>
   </tr>
   <tr>
     <td>
-      <table style="width: 100%; border-collapse: collapse;">
+      <table style="width: 100%;">
         <tr>
           <th style="width: 40%; text-align: left;">Title</th>
           <th style="width: 40%; text-align: left;">Description</th>
@@ -66,13 +66,13 @@
 </table>
 
 
-<table style="width: 100%; border-collapse: collapse;">
+<table style="width: 100%">
   <tr>
     <th style="text-align: center;">Natural Language Processing and LLMs</th>
   </tr>
   <tr>
     <td>
-      <table style="width: 100%; border-collapse: collapse;">
+      <table style="width: 100%">
         <tr>
           <th style="width: 40%; text-align: left;">Title</th>
           <th style="width: 40%; text-align: left;">Description</th>
@@ -90,13 +90,13 @@
 
 
 
-<table style="width: 100%; border-collapse: collapse;">
+<table style="width: 100%">
   <tr>
     <th style="text-align: center;">Miscellaneous</th>
   </tr>
   <tr>
     <td>
-      <table style="width: 100%; border-collapse: collapse;">
+      <table style="width: 100%">
         <tr>
           <th style="width: 40%; text-align: left;">Title</th>
           <th style="width: 40%; text-align: left;">Description</th>
