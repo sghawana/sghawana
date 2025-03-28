@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=sghawana&color=red&label=TRTHK&base=42&abbreviated=true)
+
 ![5 Horses](utils/5horses.png)
 <br/>
 
@@ -194,3 +196,4 @@
        <td width="15%" align="center">CV<br>CNN<br>Object detection</td>
     </tr>
 </table>
+
